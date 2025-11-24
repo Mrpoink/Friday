@@ -1,1 +1,2 @@
-print("Hello World")
+import transformers
+print(transformers.__version__)
